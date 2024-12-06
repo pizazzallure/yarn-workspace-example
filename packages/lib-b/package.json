@@ -1,0 +1,8 @@
+{
+  "name": "@scope/lib-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "serialize-javascript": "1.7.0"
+  }
+}

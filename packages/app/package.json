@@ -1,0 +1,10 @@
+{
+  "name": "@scope/app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@scope/lib-a": "1.0.0",
+    "@scope/lib-b": "1.0.0",
+    "xmlbuilder": "~11.0.0"
+  }
+}
